@@ -1,7 +1,12 @@
+html {
+  background-color: black;
+}
+
 body {
-    text-align: center;
+  margin: 25px auto;
+  text-align: center;
 }
 
 canvas {
-    border: 1px solid grey;
+  border: 1px solid grey;
 }
